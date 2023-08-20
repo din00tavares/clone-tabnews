@@ -1,5 +1,5 @@
 function Home() {
-    return <div><h1>Esse é meu primeiro pedaço de internet</h1><h2>Quer aprender como fazer o seu?</h2></div>
+    return <h1>Esse é meu primeiro pedaço de internet. Quer aprender a fazer o seu?</h1>
 }
 
 export default Home;
